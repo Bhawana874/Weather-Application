@@ -1,2 +1,2 @@
 # Weather-Application
-React+vite
+This repository contains a dynamic weather application created using React+Vite.
